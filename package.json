@@ -1,0 +1,30 @@
+{
+  "name": "node-ssh-exec",
+  "version": "0.1.0",
+  "description": "A simple ssh2 wrapper to exec shell commands on remotes via ssh using Node.js.",
+  "main": "lib/ssh-exec.js",
+  "scripts": {
+    "test": "mocha --reporter spec --timeout 60s test/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/adriano-di-giovanni/node-ssh-exec.git"
+  },
+  "author": "Adriano Di Giovanni <me@adrianodigiovanni.com> (http://adrianodigiovanni.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adriano-di-giovanni/node-ssh-exec/issues"
+  },
+  "homepage": "https://github.com/adriano-di-giovanni/node-ssh-exec",
+  "keywords": [
+    "node",
+    "ssh",
+    "ssh2",
+    "exec",
+    "remote"
+  ],
+  "dependencies": {
+    "underscore": "^1.6.0",
+    "ssh2": "^0.3.2"
+  }
+}
