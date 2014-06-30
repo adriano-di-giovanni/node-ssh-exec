@@ -4,7 +4,9 @@ A simple ssh2 wrapper to exec shell commands on remotes via ssh using Node.js.
 
 ## Installation
 
+```
 npm install node-ssh-exec
+```
 
 ## Usage
 
