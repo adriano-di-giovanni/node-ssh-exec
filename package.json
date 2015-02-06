@@ -1,6 +1,6 @@
 {
   "name": "node-ssh-exec",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A simple ssh2 wrapper to exec shell commands on remotes via ssh using Node.js.",
   "main": "lib/ssh-exec.js",
   "scripts": {
